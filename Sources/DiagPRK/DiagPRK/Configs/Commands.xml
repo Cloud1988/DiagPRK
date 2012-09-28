@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net" xmlns:db="http://www.springframework.net/database">
+  <description>
+    Commands  config
+  </description>
+      
+  <object id="CommandFactory" type="DiagPRK.Commands.CommandFactory, DiagPRK" singleton="true" autowire="constructor" init-method="InitFactory" />
+
+  <object id="FakeCommand" type="DiagPRK.Commands.FakeCommand, DiagPRK" singleton="true" autowire="constructor" />
+</objects>

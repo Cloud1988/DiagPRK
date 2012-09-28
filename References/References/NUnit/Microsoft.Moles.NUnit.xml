@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Moles.NUnit</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Moles.Framework.NUnit.Addin.MolesAddin">
+            <summary>
+            NUnit addin to support the Moles runtime
+            </summary>
+        </member>
+        <member name="M:Microsoft.Moles.Framework.NUnit.Addin.MolesAddin.Install(NUnit.Core.Extensibility.IExtensionHost)">
+            <summary>
+            Installs the NUnit extensions for Stubs and Moles
+            </summary>
+            <param name="host"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Microsoft.Moles.Framework.NUnit.MoledAttribute">
+            <summary>
+            Executes the test in a mole runtime context.
+            </summary>
+            <remarks>
+            This attribute wraps the test execution in a 
+            <see cref="M:Microsoft.Moles.Framework.MolesContext.Create"/> call.
+            </remarks>
+        </member>
+    </members>
+</doc>

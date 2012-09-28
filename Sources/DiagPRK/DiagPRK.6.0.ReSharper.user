@@ -1,0 +1,192 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Spring/f:SpringContext.cs" caret="712" fromTop="23" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Configs/f:Commands.xml" caret="201" fromTop="5" />
+      <File id="D12972DA-AB07-44F9-BA50-2A162925B830/f:App.config" caret="0" fromTop="0" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Program.cs" caret="471" fromTop="17" />
+      <File id="D12972DA-AB07-44F9-BA50-2A162925B830/f:CommandFactoryTest.cs" caret="301" fromTop="14" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.Designer.cs" caret="49753" fromTop="24" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:FakeCommand.cs" caret="291" fromTop="11" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:CommandFactory.cs" caret="773" fromTop="12" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:CommandsRegister.cs" caret="175" fromTop="5" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command12.cs" caret="124" fromTop="5" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:SimpleCommand.cs" caret="0" fromTop="0" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command1.cs" caret="0" fromTop="0" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:BaseCommand.cs" caret="85" fromTop="3" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command30.cs" caret="823" fromTop="25" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:ParameterizedCommand.cs" caret="697" fromTop="21" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command33.cs" caret="880" fromTop="17" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Properties/f:Res.Designer.cs" caret="403" fromTop="9" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="64012" fromTop="35" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command12.cs" caret="575" fromTop="21" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="62289" fromTop="9" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="63226" fromTop="35" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="62489" fromTop="26" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command12.cs" caret="386" fromTop="15" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command1.cs" caret="42" fromTop="7" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:SimpleCommand.cs" caret="639" fromTop="18" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:SimpleCommand.cs" caret="156" fromTop="7" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:CommandsRegister.cs" caret="175" fromTop="5" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command1.cs" caret="181" fromTop="8" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command1.cs" caret="0" fromTop="0" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:ParameterizedCommand.cs" caret="686" fromTop="12" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:ParameterizedCommand.cs" caret="155" fromTop="3" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command12.cs" caret="575" fromTop="11" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command12.cs" caret="386" fromTop="13" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command12.cs" caret="117" fromTop="4" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:ParameterizedCommand.cs" caret="0" fromTop="0" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command30.cs" caret="117" fromTop="4" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command30.cs" caret="327" fromTop="7" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command30.cs" caret="478" fromTop="12" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="61854" fromTop="8" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command33.cs" caret="967" fromTop="31" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command33.cs" caret="114" fromTop="7" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command33.cs" caret="497" fromTop="17" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command33.cs" caret="363" fromTop="11" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command33.cs" caret="33" fromTop="0" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/d:Commands/f:Command33.cs" caret="880" fromTop="17" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="63454" fromTop="5" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="10146" fromTop="20" />
+      <File id="F37F4741-D19B-4730-916A-39EFEDB624AA/f:Form1.cs" caret="70970" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="DiagPRK.Test.CommandFactoryTest" type="NUnitTestFixtureElement" Project="D12972DA-AB07-44F9-BA50-2A162925B830" />
+        <UnitTestElement Provider="nUnit" Id="DiagPRK.Test.CommandFactoryTest.GetCommandTest" ParentId="DiagPRK.Test.CommandFactoryTest" type="NUnitTestElement" TypeName="DiagPRK.Test.CommandFactoryTest" MethodName="GetCommandTest" Project="D12972DA-AB07-44F9-BA50-2A162925B830" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="partial" priority="30" />
+      <Item value="public" priority="247" />
+      <Item value="BaseCommand`0" priority="26" />
+      <Item value="override" priority="95" />
+      <Item value="interface" priority="62" />
+      <Item value="CommandFactoryTest`0" priority="31" />
+      <Item value="_commandFactory" priority="118" />
+      <Item value="SetUpAttribute`0" priority="31" />
+      <Item value="SetUp" priority="31" />
+      <Item value="void" priority="95" />
+      <Item value="Spring" priority="26" />
+      <Item value="Assert`0" priority="63" />
+      <Item value="command" priority="31" />
+      <Item value="Test" priority="31" />
+      <Item value="abstract" priority="61" />
+      <Item value="class" priority="61" />
+      <Item value="private" priority="127" />
+      <Item value="Commands" priority="31" />
+      <Item value="using" priority="92" />
+      <Item value="Factory" priority="27" />
+      <Item value="IBaseCommand`0" priority="63" />
+      <Item value="return" priority="351" />
+      <Item value="int" priority="284" />
+      <Item value="if" priority="127" />
+      <Item value="String`0" priority="31" />
+      <Item value="foreach" priority="63" />
+      <Item value="else" priority="63" />
+      <Item value="throw" priority="31" />
+      <Item value="ArgumentNullException`0" priority="31" />
+      <Item value="GroupBox`0" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="ComboBox`0" priority="31" />
+      <Item value="object" priority="91" />
+      <Item value="null" priority="63" />
+      <Item value="var" priority="63" />
+      <Item value="new" priority="255" />
+      <Item value="max" priority="31" />
+      <Item value="min" priority="31" />
+      <Item value="List" priority="122" />
+      <Item value="List&lt;int&gt;" priority="28" />
+      <Item value="quantity" priority="31" />
+      <Item value="System" priority="61" />
+      <Item value="Linq" priority="53" />
+      <Item value="i" priority="127" />
+      <Item value="index" priority="31" />
+      <Item value="Length" priority="26" />
+      <Item value="List&lt;int[]&gt;" priority="28" />
+      <Item value="List&lt;object[]&gt;" priority="115" />
+      <Item value="protected" priority="63" />
+      <Item value="true" priority="63" />
+      <Item value="List&lt;string&gt;" priority="29" />
+      <Item value="virtual" priority="63" />
+      <Item value="readonly" priority="31" />
+      <Item value="this" priority="31" />
+      <Item value="Except`1" priority="22" />
+      <Item value="BindingList&lt;object&gt;" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DiagPRK.Commands.CommandsRegister">
+      <Item value="FakeCommand" priority="27" />
+      <Item value="SimpleCommand" priority="26" />
+      <Item value="Command30" priority="26" />
+      <Item value="Command1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DiagPRK.Commands.CommandFactory">
+      <Item value="GetCommand`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsTrue`0" priority="26" />
+      <Item value="IsNotNull`0" priority="22" />
+      <Item value="IsInstanceOf`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="ContainsKey`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DiagPRK.Commands.IBaseCommand">
+      <Item value="SetParams`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="26" />
+      <Item value="SelectedIndex" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="AddRange`0" priority="26" />
+      <Item value="Clear`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Concat`1" priority="26" />
+      <Item value="Count`1" priority="22" />
+      <Item value="ToArray`1" priority="80" />
+      <Item value="ToList`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="26" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DiagPRK.Commands.Command33">
+      <Item value="ParamNumber" priority="26" />
+      <Item value="GetQuantity`0" priority="22" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
